@@ -16,7 +16,8 @@ Here are the constraints of Project52:
 
 ## Progress (13/04/2020~)
 
-1. (13/04/2020) [Gocorona - Coronavirus Statistics Dashboard for your Terminal](https://github.com/ayoisaiah/gocorona) - Track the latest Coronavirus (COVID-19) statistics from the command line.
+1. (13/04/2020) [Gocorona: Coronavirus Statistics Dashboard for your Terminal](https://github.com/ayoisaiah/gocorona) - Track the latest Coronavirus (COVID-19) statistics from the command line.
+2. (24/04/2020) [Golife: A Game of Life project](https://github.com/ayoisaiah/golife) - Simulate John Conway's Game of Life in the terminal.
 
 ## Project ideas
 
