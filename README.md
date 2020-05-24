@@ -19,6 +19,7 @@ Here are the constraints of Project52:
 1. (13/04/2020) [Gocorona: Coronavirus Statistics Dashboard for your Terminal](https://github.com/ayoisaiah/gocorona) - Track the latest Coronavirus (COVID-19) statistics from the command line.
 2. (24/04/2020) [Golife: A Game of Life project](https://github.com/ayoisaiah/golife) - Simulate John Conway's Game of Life in the terminal.
 3. (30/04/2020) [Spotcli: Spotify Listening History Data](https://github.com/ayoisaiah/spotcli) - Grab music listening history data from Spotify and save to a MongoDB instance for future analysis.
+4. (24/05/2020) [Goname: A command line batch renaming tool](https://github.com/ayoisaiah/goname) - Batch rename files and directories safely from the command line.
 
 ## Project ideas
 
