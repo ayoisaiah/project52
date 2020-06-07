@@ -20,19 +20,7 @@ Here are the constraints of Project52:
 2. (24/04/2020) [Golife: A Game of Life project](https://github.com/ayoisaiah/golife) - Simulate John Conway's Game of Life in the terminal.
 3. (30/04/2020) [Spotcli: Spotify Listening History Data](https://github.com/ayoisaiah/spotcli) - Grab music listening history data from Spotify and save to a MongoDB instance for future analysis.
 4. (24/05/2020) [Goname: A command line batch renaming tool](https://github.com/ayoisaiah/goname) - Batch rename files and directories safely from the command line.
-
-## Project ideas
-
-Struggling for ideas? I've got you covered!
-
-Here's a few resources that list a bunch of project ideas you could try:
-
-- https://github.com/tastejs/awesome-app-ideas
-- https://github.com/tuvtran/project-based-learning
-- https://github.com/karan/Projects
-- https://github.com/florinpop17/app-ideas
-- https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef
-- https://levelup.gitconnected.com/10-great-programming-projects-to-improve-your-resume-and-learn-to-program-74b14d3e9e16
+5. (07/06/2020) [Life](https://github.com/ayoisaiah/life) - Convert between different Game of Life pattern formats.
 
 ## Suggest an idea or encourage me
 
@@ -42,4 +30,4 @@ You can also encourage me by starring this project or any of my linked projects 
 
 ## Join me
 
-Feel free to fork this project, if you want to join Project52 Challenge. Happy coding!
+Feel free to fork this project if you want to join the #Project52 challenge. Happy coding!
