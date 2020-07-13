@@ -21,6 +21,7 @@ Here are the constraints of Project52:
 3. (30/04/2020) [Spotcli: Spotify Listening History Data](https://github.com/ayoisaiah/spotcli) - Grab music listening history data from Spotify and save to a MongoDB instance for future analysis.
 4. (24/05/2020) [Goname: A command line batch renaming tool](https://github.com/ayoisaiah/goname) - Batch rename files and directories safely from the command line.
 5. (07/06/2020) [Life](https://github.com/ayoisaiah/life) - Convert between Game of Life pattern formats.
+6. (14/07/2020) [Gocsp](https://github.com/ayoisaiah/gocsp) - Content Security Policy Parser
 
 ## Suggest an idea or encourage me
 
